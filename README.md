@@ -22,5 +22,3 @@
 
 **Engineering Verdict**
 * **Value Add:** Skills transform Copilot from a generic autocomplete engine into a zero-config, repository-portable engineering harness that enforces architectural invariants across both cloud and local models.
-
->
